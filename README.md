@@ -1,8 +1,8 @@
-##installation
+## installation
 npm install  
 npm run dev  
 
-##environment  
+## environment  
 DATABASE_URL=  
 TOKEN_KEY=  
 PORT=  
